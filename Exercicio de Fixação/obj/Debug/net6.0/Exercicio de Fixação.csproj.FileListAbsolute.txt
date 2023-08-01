@@ -1,0 +1,15 @@
+C:\Users\joack\OneDrive\Área de Trabalho\C# POO\Composição\Exercicio de Fixação\Exercicio de Fixação\bin\Debug\net6.0\Exercicio de Fixação.exe
+C:\Users\joack\OneDrive\Área de Trabalho\C# POO\Composição\Exercicio de Fixação\Exercicio de Fixação\bin\Debug\net6.0\Exercicio de Fixação.deps.json
+C:\Users\joack\OneDrive\Área de Trabalho\C# POO\Composição\Exercicio de Fixação\Exercicio de Fixação\bin\Debug\net6.0\Exercicio de Fixação.runtimeconfig.json
+C:\Users\joack\OneDrive\Área de Trabalho\C# POO\Composição\Exercicio de Fixação\Exercicio de Fixação\bin\Debug\net6.0\Exercicio de Fixação.dll
+C:\Users\joack\OneDrive\Área de Trabalho\C# POO\Composição\Exercicio de Fixação\Exercicio de Fixação\bin\Debug\net6.0\Exercicio de Fixação.pdb
+C:\Users\joack\OneDrive\Área de Trabalho\C# POO\Composição\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net6.0\Exercicio de Fixação.csproj.AssemblyReference.cache
+C:\Users\joack\OneDrive\Área de Trabalho\C# POO\Composição\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net6.0\Exercicio de Fixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joack\OneDrive\Área de Trabalho\C# POO\Composição\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net6.0\Exercicio de Fixação.AssemblyInfoInputs.cache
+C:\Users\joack\OneDrive\Área de Trabalho\C# POO\Composição\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net6.0\Exercicio de Fixação.AssemblyInfo.cs
+C:\Users\joack\OneDrive\Área de Trabalho\C# POO\Composição\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net6.0\Exercicio de Fixação.csproj.CoreCompileInputs.cache
+C:\Users\joack\OneDrive\Área de Trabalho\C# POO\Composição\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net6.0\Exercicio de Fixação.dll
+C:\Users\joack\OneDrive\Área de Trabalho\C# POO\Composição\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net6.0\refint\Exercicio de Fixação.dll
+C:\Users\joack\OneDrive\Área de Trabalho\C# POO\Composição\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net6.0\Exercicio de Fixação.pdb
+C:\Users\joack\OneDrive\Área de Trabalho\C# POO\Composição\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net6.0\Exercicio de Fixação.genruntimeconfig.cache
+C:\Users\joack\OneDrive\Área de Trabalho\C# POO\Composição\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net6.0\ref\Exercicio de Fixação.dll
